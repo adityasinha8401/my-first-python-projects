@@ -15,7 +15,7 @@ while True:
 print("\nYour Financial Summmary For The Day is :")
 print("Total Expenses Recorded:",total_spent)
 print("Total Number of Expenses Recorded:",expense_count)
-
+input("\nType 'ENTER' to close the program....")
 
 
 
