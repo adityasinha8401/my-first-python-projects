@@ -18,6 +18,6 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 
 ## 🛠️ Environment & Setup
 All programs run natively in terminal shells without third-party frameworks:
-1. Ensure **Python 3.x** is installed on your local system.
+1. Ensure **Python 3.14** is installed on your local system.
 2. Clone the repository and navigate into the target folder.
 3. Launch via terminal: `python filename.py`
