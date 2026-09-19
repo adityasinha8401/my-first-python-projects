@@ -13,10 +13,10 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 2. 💸 [02-Budget-Tracker](./02-budget-tracker/)
 * **What it is:** A data collection script that allows a user to continuously input daily currency values, running a continuous total sum until given a specific exit command.
 * **Core Concepts:** Infinite iterative tracking (`while True`), string matching for structural parameters, explicit variable type casting (`int()`), and running summary logic.
-### 3. ✊ [03-Stone-Paper-Scissors](./03-stone-paper-scissors/)
+### 3. ✊ [03-Stone-Paper-Scissors](./03-Rock_Paper_Scissors/)
 * **What it is:** A terminal-based decision game where the player competes against a randomized computer opponent in the classic rock-paper-scissors dynamic.
 * **Core Concepts:** Pseudo-random selection mechanics (`random.choice`), multi-conditional evaluation structures (`if-elif-else`), string input normalization, and comparative state logic.
-### 4. 🩺 [03-Fitness-Tracker](./04-fitness-tracker/)
+### 4. 🩺 [03-Fitness-Tracker](./04-My_Daily_Fitness_Tracker/)
 * **What it is:** A fitness monitoring script where a user defines a target milestone, continuously inputs dynamic data updates, and tracks their progressive sum until the baseline goal is satisfied.
 * **Core Concepts:** Conditional loop constraints (`while < target`), real-time data validation logic for error prevention, structural sequence formatting (`continue`), and terminal reporting metrics.
 
