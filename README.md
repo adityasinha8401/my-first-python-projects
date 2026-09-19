@@ -16,6 +16,10 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 3. ✊ [03-Stone-Paper-Scissors](./03-stone-paper-scissors/)
 * **What it is:** A terminal-based decision game where the player competes against a randomized computer opponent in the classic rock-paper-scissors dynamic.
 * **Core Concepts:** Pseudo-random selection mechanics (`random.choice`), multi-conditional evaluation structures (`if-elif-else`), string input normalization, and comparative state logic.
+### 4. 🩺 [03-Fitness-Tracker](./04-fitness-tracker/)
+* **What it is:** A fitness monitoring script where a user defines a target milestone, continuously inputs dynamic data updates, and tracks their progressive sum until the baseline goal is satisfied.
+* **Core Concepts:** Conditional loop constraints (`while < target`), real-time data validation logic for error prevention, structural sequence formatting (`continue`), and terminal reporting metrics.
+
   
 
 ---
