@@ -1,4 +1,4 @@
-print("---USER LOGIN PANNEL---")
+print("---USER LOGIN PANEL---")
 while True:
     username=input("Enter your username:")
     password=input("Enter your password(atleast 6 characters):")
@@ -8,7 +8,7 @@ while True:
         print("Login Successful")
         print("Welcome to the system....",username)
         break
-print("===User Login Pannel===")
+print("===USER LOGIN PANEL===")
 attempts_left=3
 while attempts_left>0:
     Login_Username=input("Enter your username:")
