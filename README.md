@@ -19,6 +19,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 4. 🩺 [04-Fitness-Tracker](./04-My_Daily_Fitness_Tracker/)
 * **What it is:** A fitness monitoring script where a user defines a target milestone, continuously inputs dynamic data updates, and tracks their progressive sum until the baseline goal is satisfied.
 * **Core Concepts:** Conditional loop constraints (`while < target`), real-time data validation logic for error prevention, structural sequence formatting (`continue`), and terminal reporting metrics.
+### 5. 🔐 [05-User_Login_Panel](./05-User_Login_Panel/)
+* **What it is:** A local security portal simulation that validates new user credentials against string length parameters and manages iterative, case-sensitive login validation.
+* **Core Concepts:** String length validation (`len()`), conditional case-sensitivity matching (`.lower()`), controlled loop decrements (`attempts_left`), and compound logic checking (`and`).
 
   
 
