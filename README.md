@@ -22,6 +22,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 5. 🔐 [05-User_Login_Panel](./05-User_Login_Panel/)
 * **What it is:** A local security portal simulation that validates new user credentials against string length parameters and manages iterative, case-sensitive login validation.
 * **Core Concepts:** String length validation (`len()`), conditional case-sensitivity matching (`.lower()`), controlled loop decrements (`attempts_left`), and compound logic checking (`and`).
+### 6. 🛡️ [06-Password_Creation_Portal](./06-Password_Creation_Portal/)
+* **What it is:** A terminal-based user authentication gatekeeper that handles secure credential verification by evaluating structural inputs against advanced length, numeric, and character constraints.
+* **Core Concepts:** Nested control flow structures (`for` loop inside a `while True`), loop evaluation skipping (`continue`), absolute termination triggers (`break`), sequential character-by-character text evaluation (`.isdigit()`), and group membership operators (`in`).
 
   
 
