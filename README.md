@@ -25,6 +25,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 6. 🛡️ [06-Password_Creation_Portal](./06-Password_Creation_Portal/)
 * **What it is:** A terminal-based user authentication gatekeeper that handles secure credential verification by evaluating structural inputs against advanced length, numeric, and character constraints.
 * **Core Concepts:** Nested control flow structures (`for` loop inside a `while True`), loop evaluation skipping (`continue`), absolute termination triggers (`break`), sequential character-by-character text evaluation (`.isdigit()`), and group membership operators (`in`).
+### 7. 📝 [07-Class_Performance_Analyzer](./07-Class_Performance_Analyzer/)
+* **What it is:** A student mark analysis utility that takes continuous grade entries, filters out input errors, and evaluates overall class performance metrics.
+* **Core Concepts:** Infinite data streams (`while True`), conditional input filtering (`continue`), dynamic peak tracking variables, and basic descriptive statistics.
 
   
 
