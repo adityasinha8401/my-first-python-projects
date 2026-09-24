@@ -28,6 +28,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 7. 📝 [07-Class_Performance_Analyzer](./07-Class_Performance_Analyzer/)
 * **What it is:** A student mark analysis utility that takes continuous grade entries, filters out input errors, and evaluates overall class performance metrics.
 * **Core Concepts:** Infinite data streams (`while True`), conditional input filtering (`continue`), dynamic peak tracking variables, and basic descriptive statistics.
+### 8. 🛒 [08-Smart_Shopping_Counter](./08-Smart_Shopping_Counter/)
+* **What it is:** A simulated digital retail checkout application that dynamically captures a list of grocery items from user input and saves them into an array container until a terminal exit trigger is given.
+* **Core Concepts:** Linear array storage (`lists`), dynamic data element insertion (`.append()`), array length parsing (`len()`), and definite sequence iteration (`for` loops).
 
   
 
