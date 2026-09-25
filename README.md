@@ -31,6 +31,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 8. 🛒 [08-Smart_Shopping_Counter](./08-Smart_Shopping_Counter/)
 * **What it is:** A simulated digital retail checkout application that dynamically captures a list of grocery items from user input and saves them into an array container until a terminal exit trigger is given.
 * **Core Concepts:** Linear array storage (`lists`), dynamic data element insertion (`.append()`), array length parsing (`len()`), and definite sequence iteration (`for` loops).
+* ### 🕵️‍♂️ [09-Data_Encryption_Tool](./09-Data_Encryption_Tool)
+* **What it is:** An early cryptography tool implementing a Caesar Cipher mapping shift to convert standard input strings into hidden alphabetic machine outputs.
+* **Core Concepts:** ASCII numerical conversion values (`ord()`), computer data decoding (`chr()`), conditional spacing retention, and sequential text accumulators.
 
   
 
