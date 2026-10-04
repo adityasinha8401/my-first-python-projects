@@ -37,6 +37,10 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 * ### 10. 📨 [10-Interactive_Spam_Detector](./10-Interactive_Spam_Detector/)
 * **What it is:** A command-line text processing tool that evaluates user messages in real-time, matching words against structural filter rules to isolate spam while dynamically calculating global token frequencies.
 * **Core Concepts:** High-speed set membership validation (`in`), text normalization (`.lower()`, `.replace()`), collection mapping via dictionaries, list tokenization (`.split()`), and terminal control conditions (`break`).
+* ### 11. 📈 [11-CSV_DATA_PARSER_AND_ANALYZER](./11-CSV_DATA_PARSER_AND_ANALYZER/)
+* **What it is:** A data processing utility that simulates reading a flat text file, breaking down comma-separated string matrices into clean, structured data records without external libraries.
+* **Core Concepts:** Matrix mapping via a nested `list` of `dict` items, continuous stream filtering with conditional gates (`if-else`), data validation type safety checks, and descriptive statistical calculation logic.
+
 
 
   
