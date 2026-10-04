@@ -31,13 +31,13 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 8. 🛒 [08-Smart_Shopping_Counter](./08-Smart_Shopping_Counter/)
 * **What it is:** A simulated digital retail checkout application that dynamically captures a list of grocery items from user input and saves them into an array container until a terminal exit trigger is given.
 * **Core Concepts:** Linear array storage (`lists`), dynamic data element insertion (`.append()`), array length parsing (`len()`), and definite sequence iteration (`for` loops).
-* ### 9. 🕵️‍♂️ [09-Data_Encryption_Tool](./09-Data_Encryption_Tool)
+### 9. 🕵️‍♂️ [09-Data_Encryption_Tool](./09-Data_Encryption_Tool)
 * **What it is:** An early cryptography tool implementing a Caesar Cipher mapping shift to convert standard input strings into hidden alphabetic machine outputs.
 * **Core Concepts:** ASCII numerical conversion values (`ord()`), computer data decoding (`chr()`), conditional spacing retention, and sequential text accumulators.
-* ### 10. 📨 [10-Interactive_Spam_Detector](./10-Interactive_Spam_Detector/)
+### 10. 📨 [10-Interactive_Spam_Detector](./10-Interactive_Spam_Detector/)
 * **What it is:** A command-line text processing tool that evaluates user messages in real-time, matching words against structural filter rules to isolate spam while dynamically calculating global token frequencies.
 * **Core Concepts:** High-speed set membership validation (`in`), text normalization (`.lower()`, `.replace()`), collection mapping via dictionaries, list tokenization (`.split()`), and terminal control conditions (`break`).
-* ### 11. 📈 [11-CSV_DATA_PARSER_AND_ANALYZER](./11-CSV_DATA_PARSER_AND_ANALYZER/)
+### 11. 📈 [11-CSV_DATA_PARSER_AND_ANALYZER](./11-CSV_DATA_PARSER_AND_ANALYZER/)
 * **What it is:** A data processing utility that simulates reading a flat text file, breaking down comma-separated string matrices into clean, structured data records without external libraries.
 * **Core Concepts:** Matrix mapping via a nested `list` of `dict` items, continuous stream filtering with conditional gates (`if-else`), data validation type safety checks, and descriptive statistical calculation logic.
 
