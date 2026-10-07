@@ -40,6 +40,9 @@ Welcome to my Python learning directory! I am a **first-year B.Tech Data Science
 ### 11. 📈 [11-CSV_DATA_PARSER_AND_ANALYZER](./11-CSV_DATA_PARSER_AND_ANALYZER/)
 * **What it is:** A data processing utility that simulates reading a flat text file, breaking down comma-separated string matrices into clean, structured data records without external libraries.
 * **Core Concepts:** Matrix mapping via a nested `list` of `dict` items, continuous stream filtering with conditional gates (`if-else`), data validation type safety checks, and descriptive statistical calculation logic.
+### 12. 🎬 [12-Movie_recommendation_tool](./12-Movie_recommendation_tool/)
+* **What it is:** A continuous stream-processing data application that evaluates movie entries in real-time against pre-set user preference profiles, executing automated target parameters to launch deep-search links across Disney+ Hotstar.
+* **Core Concepts:** Infinite stream processing (`while True`), real-time conditional evaluation logic (`if-else`), string sanitization via URL encoding (`urllib.parse.quote_plus`), targeted search operators (`site:` parameters), and automated client-side browser execution (`webbrowser`).
 
 
 
